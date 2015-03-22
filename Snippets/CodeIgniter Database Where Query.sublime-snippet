@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->where('${1:id}', ${2:\$id})${3:}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<tabTrigger>ci_db_where</tabTrigger>
+	<scope>text.html, source.php</scope>
+</snippet>
