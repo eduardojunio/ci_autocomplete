@@ -4,6 +4,8 @@ Sublime Text 2/3 Snippets for CodeIgniter
 ## Install
 Click on **Download ZIP** in the right side and save the file on the your Sublime Text Package Folder that you can access by **Preferences -> Browse Packages** or going directly to ``C:\Users\username\AppData\Roaming\Sublime Text 3\Packages\User``.
 
+After that, extract the file and be happy coding with CodeIgniter!
+
 ## Snippets list
 | Snippet Name           | Tab Trigger   | Description                              |
 |------------------------|---------------|------------------------------------------|
